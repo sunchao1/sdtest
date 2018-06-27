@@ -1,0 +1,5 @@
+*.log
+/vendor
+/bin/bladeCache
+/bin/log
+/bin/pid
